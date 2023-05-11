@@ -1,5 +1,7 @@
 body, html {
-	font-family: 'Raleway', sans-serif;
+	/* font-family: 'Raleway', sans-serif; */
+	/* font-family: 'Zen Maru Gothic', sans-serif; */
+	font-family: 'Advent Pro', sans-serif; 
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -100,7 +102,9 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-family: 'Dancing Script', cursive;
+	/* font-family: 'Cormo'; */
+	/* font-family: 'Dancing Script', cursive; */
+	font-family: 'Cormorant Garamond', serif;
 	font-size: 36px;
 	color: #8eb640;
 	font-weight: 700;
@@ -196,7 +200,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Cormorant Garamond', serif;
+	/* font-family: 'Dancing Script', cursive; */
 	color: #fff;
 	font-size: 18vw;
 	font-weight: 700;
